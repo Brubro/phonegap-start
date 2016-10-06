@@ -74,7 +74,7 @@
     <icon src="umbrella.png" />
    
     <!-- Define app splash screen for each platform. -->
-    <gap:splash src="umbrella.png"/>
+    <gap:splash src="tvirus.jpg"/>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
     <string>100</string>
